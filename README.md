@@ -28,7 +28,6 @@
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
@@ -53,8 +52,7 @@ A smart and secure web app that helps users find the perfect gift using a tailor
 - Relationship
 - Age
 - Interests
-- Occasion  
-
+ 
 💾 **Wish List**: Save favorite gifts to a personal wish list in MongoDB  
 🔗 **Easy Sharing**: Share gift suggestions via WhatsApp or copyable links  
 📱 **Responsive Design**: Built using CSS Flexbox, Grid, and Media Queries for mobile support  
@@ -64,9 +62,25 @@ A smart and secure web app that helps users find the perfect gift using a tailor
 
 💡 **Tech Stack**: HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB
 
-
 ---
 
+## 🗂️ Projects by Programming Language
+
+### 🐍 Python Projects:
+- **Health & Fitness Tracker**: A complete tracking system for workouts, meals, and progress analysis ( Code Available ).
+
+### 🗃️ SQL Projects:
+- **Health & Fitness Tracker**: Utilizes SQL to manage and store user data, workout logs, and nutrition information ( Code Available ).
+
+### ☕ Java Projects:
+- **Train Reservation System**: A console-based Java application for booking trains, reserving train tickets and payments ( Code Coming Soon ).
+
+### 💻 C++ Projects:
+- **Hospital Management System**: A data structures and algorithms-driven system to manage hospital operations ( Code Coming Soon ).
+
+### 🌐 JavaScript Projects:
+- **Personalized Gift Suggestion App**: A dynamic app offering gift suggestions based on user inputs and preferences ( In Progress ).
+  
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
