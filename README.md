@@ -45,23 +45,21 @@ A fully completed system using **Python** and **SQL** to track:
 
 ### 🛠️ Personalized Gift Suggestion App *(In Progress)*
 
-A smart and secure web app that helps users find the perfect gift using a tailored recommendation engine.
+A smart and secure web app designed to help users discover the perfect gifts using a tailored recommendation engine.
 
-🔐 **Authentication**: Secure sign-up and login with React, Node.js, Express.js, and MongoDB  
-🎁 **Smart Suggestions**: JSON-based filtering engine provides gift ideas based on:
-- Relationship
-- Age
-- Interests
- 
-💾 **Wish List**: Save favorite gifts to a personal wish list in MongoDB  
-🔗 **Easy Sharing**: Share gift suggestions via WhatsApp or copyable links  
-📱 **Responsive Design**: Built using CSS Flexbox, Grid, and Media Queries for mobile support  
+🔐 **Authentication**: Secure user sign-up and login implemented with **React**, **Node.js**, **Express.js**, and **MongoDB**.
+🎁 **Smart Suggestions**: Intelligent gift ideas provided through a JSON-based filtering engine, considering:
+  * Relationship
+  * Age
+  * Interests
+💾 **Wish List**: Users can save their favorite gift ideas to a personal wish list stored in **MongoDB**.
+🔗 **Easy Sharing**: Simple sharing of gift suggestions via WhatsApp or copyable links.
+📱 **Responsive Design**: Mobile-friendly user interface built using **CSS Flexbox**, **Grid**, and **Media Queries**.
 🛡️ **Security Features**:
-- HTML5 form validation
-- Backend sanitization for safe user input handling  
+  * **HTML5** form validation for client-side data integrity.
+  * Backend sanitization to ensure safe handling of user input.
 
-💡 **Tech Stack**: HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB
-
+💡 **Tech Stack**: **HTML**, **CSS**, **JavaScript**, **React**, **Node.js**, **Express.js**, **MongoDB**
 ---
 
 ## 🗂️ Projects by Programming Language
