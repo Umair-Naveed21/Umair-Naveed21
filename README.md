@@ -40,16 +40,30 @@
 A fully completed system using **Python** and **SQL** to track:
 - Workouts
 - Meals
-- Sleep routines
+- Nutritions
 - Progress analytics  
 ✔️ Built with focus on functionality, ready for front-end upgrade.
 
 ### 🛠️ Personalized Gift Suggestion App *(In Progress)*
-A smart React-based app that suggests gift ideas based on:
+
+A smart and secure web app that helps users find the perfect gift using a tailored recommendation engine.
+
+🔐 **Authentication**: Secure sign-up and login with React, Node.js, Express.js, and MongoDB  
+🎁 **Smart Suggestions**: JSON-based filtering engine provides gift ideas based on:
 - Relationship
-- Occasion
-- Age group  
-💡 Stack: HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB
+- Age
+- Interests
+- Occasion  
+
+💾 **Wish List**: Save favorite gifts to a personal wish list in MongoDB  
+🔗 **Easy Sharing**: Share gift suggestions via WhatsApp or copyable links  
+📱 **Responsive Design**: Built using CSS Flexbox, Grid, and Media Queries for mobile support  
+🛡️ **Security Features**:
+- HTML5 form validation
+- Backend sanitization for safe user input handling  
+
+💡 **Tech Stack**: HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB
+
 
 ---
 
