@@ -5,6 +5,7 @@
   💡 Currently building a <strong>Personalized Gift Suggestion App</strong><br/>
   📍 Based in Karachi, Pakistan<br/>
   📧 Email: <a href="mailto:unaveed351@gmail.com">unaveed351@gmail.com</a><br/>
+  💼 LinkedIn: <a href="linkedin.com/in/m-umair-naveed-623ab7321">LinkedIn</a>
 </p>
 
 ---
